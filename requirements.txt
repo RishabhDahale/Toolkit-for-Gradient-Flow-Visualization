@@ -1,0 +1,7 @@
+numpy~=1.22.3
+mayavi~=4.7.4
+torch~=1.11.0
+traits~=6.3.2
+traitsui~=7.2.1
+matplotlib~=3.5.1
+setuptools~=58.0.4
